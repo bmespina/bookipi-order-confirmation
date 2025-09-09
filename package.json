@@ -1,0 +1,17 @@
+{
+  "name": "product-list-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "init": "^0.1.2",
+    "npm": "^11.3.0",
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.15.0",
+    "@aws-sdk/client-lambda": "^3.821.0"
+  }
+}
