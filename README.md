@@ -7,8 +7,8 @@ This project contains source code and supporting files for a serverless applicat
 - bookipi-event-function : Code for the application's Lambda function.
 - events : Invocation events that you can use to invoke the function. The test file is test.json
   {
-  "email": "admin@example.com",
-  "password": "P@$$w0rd",
+  "email": "",
+  "password": "",
   "code": 0,
   "name": "Application or endpoint name"
   }
